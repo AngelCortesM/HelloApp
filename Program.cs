@@ -14,6 +14,7 @@ partial class Program
         // DaysUntilNextBirthday();
         //TypeDifference();
         // HandleNullables();
-        Operators();
+        //Operators();
+        Arrays();
     }
 }
