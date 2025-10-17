@@ -13,5 +13,15 @@ partial class Program
         Console.WriteLine($"Tercer número: {numbersArray[2]}");
         //Tamaño arreglo
         Console.WriteLine($"Tamaño del arreglo: {numbersArray.Length}");
+        //Desde el final del arrego
+        Console.WriteLine($"Último número: {numbersArray[^1]}");
+        Console.WriteLine($"Penúltimo número: {numbersArray[^2]}");
+        //Rangos para obtener subarreglos
+        int[] firstThree = numbersArray[..3];
+        int[] fromIndexTwo = numbersArray[2..];
+        foreach (var number in fromIndexTwo)
+        {
+            Console.WriteLine(number);
+        }
     }
 }
