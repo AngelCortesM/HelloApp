@@ -8,6 +8,11 @@ partial class Program
         Console.WriteLine($"Tamaño del arreglo de numeros: {GetIntArrayLength(numbers)}");
         Console.WriteLine($"Tamaño del arreglo de nombre (Genérico): {GetArrayLength<string>(names)}");
         Console.WriteLine($"Tamaño del arreglo de numeros (Genérico): {GetArrayLength<int>(numbers)}");
+
+        Box<int> numberBox = new Box<int> { Content = 50 };
+        Box<string> stringBox = new Box<string> { Content = "Ahora soy una caja de texto" };
+        numberBox.Show();
+        stringBox.Show();
     }
     //metodos sin usar genericos
     static int GetIntArrayLength(int[] array)
@@ -28,7 +33,7 @@ partial class Program
 
 class Box<T>
 {
-    private T? Content { get; set; }
+    public T? Content { get; set; }
 
     public void Show()
     {
