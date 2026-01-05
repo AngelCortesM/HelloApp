@@ -26,7 +26,8 @@ partial class Program
         //Conditionals();
         //Loops();
         //FizzBuzz();
-        LoopsControlsExamples();
+        // LoopsControlsExamples();
+        LoppGame();
         #endregion
     }
 }
