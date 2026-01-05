@@ -8,9 +8,9 @@ partial class Program
         // ShowNumericTypes();
         // ShowStringTypes();
         // SalesReport();
-        // // SalaryCalculator();
+        // SalaryCalculator();
         // ShowTime();
-        // //  DaysOfLife();
+        //  DaysOfLife();
         // DaysUntilNextBirthday();
         //TypeDifference();
         // HandleNullables();
@@ -19,6 +19,7 @@ partial class Program
         //InventoryManager();
         // ListDictionary();
         //  DataStructures();
-        Generics();
+        // Generics();
+        Conditionals();
     }
 }

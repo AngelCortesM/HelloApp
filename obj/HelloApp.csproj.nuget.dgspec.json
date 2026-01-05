@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\JoseAngelCortesMonto\\hbsProyectos\\CSharp\\HelloApp\\HelloApp.csproj": {}
+    "C:\\Users\\JoseAngelCortesMonto\\hbs\\HelloApp\\HelloApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\JoseAngelCortesMonto\\hbsProyectos\\CSharp\\HelloApp\\HelloApp.csproj": {
+    "C:\\Users\\JoseAngelCortesMonto\\hbs\\HelloApp\\HelloApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\JoseAngelCortesMonto\\hbsProyectos\\CSharp\\HelloApp\\HelloApp.csproj",
+        "projectUniqueName": "C:\\Users\\JoseAngelCortesMonto\\hbs\\HelloApp\\HelloApp.csproj",
         "projectName": "HelloApp",
-        "projectPath": "c:\\Users\\JoseAngelCortesMonto\\hbsProyectos\\CSharp\\HelloApp\\HelloApp.csproj",
+        "projectPath": "C:\\Users\\JoseAngelCortesMonto\\hbs\\HelloApp\\HelloApp.csproj",
         "packagesPath": "C:\\Users\\JoseAngelCortesMonto\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\JoseAngelCortesMonto\\hbsProyectos\\CSharp\\HelloApp\\obj\\",
+        "outputPath": "C:\\Users\\JoseAngelCortesMonto\\hbs\\HelloApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.1.25451.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
