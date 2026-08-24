@@ -1,7 +1,7 @@
 using static System.Console;
 partial class Program
 {
-    static void LoppGame()
+    static void LoopGame()
     {
         int counter = 0;
         WriteLine("🎮 ¡Pulse cualquier tecla para aumentar el contador!");

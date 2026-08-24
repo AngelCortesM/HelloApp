@@ -1,4 +1,4 @@
-﻿using System;
+﻿
 partial class Program
 {
     static void Main(string[] args)
@@ -27,8 +27,13 @@ partial class Program
         //Loops();
         //FizzBuzz();
         // LoopsControlsExamples();
-        //LoppGame();
-        Conversions();
+        //LoopGame();
+        // Conversions();
+        // ConvertionDateTime();
+        //Functions();
+        // PrintMultiplicationTable(9,15);
+       // PrintMultiplicationTable(tableLimit: 15, number: 7);
+       PrintFactorialTable(5);
         #endregion
     }
 }
