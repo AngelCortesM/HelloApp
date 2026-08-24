@@ -32,8 +32,10 @@ partial class Program
         // ConvertionDateTime();
         //Functions();
         // PrintMultiplicationTable(9,15);
-       // PrintMultiplicationTable(tableLimit: 15, number: 7);
-       PrintFactorialTable(5);
+        // PrintMultiplicationTable(tableLimit: 15, number: 7);
+        // PrintFactorialTable(5);
+        // Tuples();
+        AnonymousFuntions();
         #endregion
     }
 }
